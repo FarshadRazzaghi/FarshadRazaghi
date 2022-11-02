@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @FarshadRazaghi
 - 👀 I’m interested in ASP.NET
-- 🌱 I’m currently learning REACT
 - 💞️ I’m looking to collaborate on Google Corp
 - 📫 How to reach me :
 f.razaghi22@gmail.com
